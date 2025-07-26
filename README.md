@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on: Dell technologies
 - 🌱 I’m currently learning: Python and advanced Excel
-- 💬 Ask me about: Figma ad Blender
+- 💬 Ask me about: Figma and Blender
 - 😄 Pronouns: She/her
 - Contact: paolaquinonespty@gmail.com
 <hr>
